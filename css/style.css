@@ -1,0 +1,116 @@
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Bold.woff2") format("woff2"), url(../fonts/Larsseit-Bold.woff) format("woff");
+font-display: swap;
+font-weight: 600;
+font-style: normal;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url(../fonts/Larsseit-Medium.woff) format("woff");
+font-display: swap;
+font-weight: 500;
+font-style: normal;
+}
+
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/Lato-Black.woff2") format("woff2"), url(../fonts/Lato-Black.woff) format("woff");
+}
+
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/Lato-Regular.woff2") format("woff2"), url(../fonts/Lato-Regular.woff) format("woff");
+}
+
+body {
+	font-family: "Larsseit";
+	font-weight: 400;
+}
+h1 {
+	font-family: "Larsseit";
+	font-weight: 900;
+	color: red;
+	font-size: 30px;
+}
+
+h2 {
+	font-family: "Lato";
+	color: red;
+}
+
+img {
+	height: 300px;
+}
+
+.usa p{
+	color: green;
+	font-family: "Larsseit-Medium";
+}
+.usa2{
+	color: blue;
+}
+
+.usa3 {
+	font-family: "Lato";
+	color: blueviolet;
+}
+.usa4 ul{
+	font-family: "Lato";
+	color: royalblue;
+}
+.ul li{
+	color: red;
+	font-family: "Lato";
+}
+.usa4 ol{
+	color: grey;
+}
+.cl p{
+	color: royalblue;
+}
+.usa5 h2{
+	font-size: 20px;
+}
+.cl h2{
+	font-size: 20px;
+}
+
+.geography h2{
+	font-size: 20px;
+}
+
+.geography p{
+	font-family: "Lato";
+	color: blueviolet;
+}
+.geography li{
+	font-family: "Lato";
+	color: goldenrod;
+}
+.DependentTerritories h2{
+	font-family: "Lato";
+}
+.Naturehydrology p{
+	font-family: "Lato";
+}
+.Economy p{
+	color: blue;
+	font-family: "Lato-black";
+}
+.Administrative p{
+	color: blue;
+	font-family: "Larsseit";
+}
+.Political p{
+	color: blue;
+	font-family: "Lato";
+}
+.policy p{
+	color: blue;
+	font-family: "Lato";
+}
+.armed p{
+	color: blue;
+	font-family: "Lato";
+}
